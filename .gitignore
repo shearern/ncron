@@ -1,5 +1,7 @@
 django/db.sqlite3
 
+.idea
+
 *~
 *.pyc
 .project
